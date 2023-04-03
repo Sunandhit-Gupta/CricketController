@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    background: #5675e4;
+    border-color: #7289da;
+}
+
+
+.Head{
+    text-align: center;
+    font-family: fantasy;
+    width: 95vw;
+    height: 15vh;
+    padding-top: 5vh;
+   font-size: larger;
+   margin-left: 2.5vw;
+}
+
+.allmatches{
+
+    text-align: center;
+    align-items: center;
+}
+.match1div{
+    text-align: center;
+    margin-top: 2vh;
+    width: 40vw;
+    border-radius: 10px;
+    background: #7289da;
+    margin-left: 30vw;
+    padding: 3vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+
+.match1btn1{
+    border-radius: 5px;
+    text-align: center;
+    color: aliceblue;
+    background: #7289da;
+}
+
+.match1btn2{
+    border-radius: 5px;
+    text-align: center;
+    color: aliceblue;
+    background: #7289da;
+}
+
+.m1firstscore{
+    background: #7289da;
+}
+.m1firstwickets{
+    background: #7289da;
+}
+.m1firstover{
+    background: #7289da;
+}
+
+.match1btn3{
+    border-radius: 5px;
+    text-align: center;
+    color: aliceblue;
+    background: #7289da;
+}
+
+.m1secondscore{
+    background: #7289da;
+}
+.m1secondwickets{
+    background: #7289da;
+}
+.m1secondover{
+    background: #7289da;
+}
+
+.match1btn4{
+    border-radius: 5px;
+    text-align: center;
+    color: aliceblue;
+    background: #7289da;
+}
+
+.match1btn5{
+    border-radius: 5px;
+    text-align: center;
+    color: aliceblue;
+    background: #7289da;
+}
+.headlines{
+    text-align: center;
+    margin-top: 5vh;
+    width: 40vw;
+    height: 16vh;
+    border-radius: 10px;
+    background: #7289da;
+    margin-left: 30vw;
+    padding: 2vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    overflow-y: scroll;
+}
+.matchupdatediv{
+    text-align: center;
+    margin-top: 5vh;
+    width: 90vw;
+    border-radius: 10px;
+    background: #7289da;
+    margin-left: 3vw;
+    padding: 5vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    height: 22vh;
+}
+.team1updates{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.team1name{
+    width: 12vw;
+}
+.team1score{
+    width: 7vw;
+}
+.team1over{
+    width: 7vw;
+}
+.team1wicket{
+    width: 7vw;
+}
+.team2updates{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.team2name{
+    width: 12vw;
+}
+.team2score{
+    width: 7vw;
+}
+.team2over{
+    width: 7vw;
+}
+.team2wicket{
+    width: 7vw;
+}
+
+
+.commentInput{
+    width: 30vw;
+}
+.creators{
+    margin-top: 2vh;
+    background: #7289da;
+}
+.dil{
+    color: red;
+    background: #7289da;
+}
